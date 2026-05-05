@@ -1,0 +1,15 @@
+Django==4.2.11
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+psycopg2-binary==2.9.9
+flask
+flask-cors
+numpy
+joblib
+huggingface_hub
+gunicorn
+scikit-learn
+pandas
+Pillow==10.1.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.23.0
